@@ -1,0 +1,15 @@
+[Block webOS Updates]
+! Title: webOS Firmware and System Updates Blocking List
+! Description: This list is designed to block domains used by webOS devices to check for and download firmware, system, and software updates.  
+! Purpose: Prevent automatic updates on webOS devices by restricting access to update servers, ensuring device stability and avoiding unwanted firmware changes.
+! Expires: 365 days
+! Last modified: 14 May 2025 01:29 UTC
+! Version: 1
+! Syntax: AdBlock
+!
+||nsu.lge.com^
+||su-dev.lge.com^
+||snu-dev.lge.com^
+||su-ssl.lge.com^
+||su.lge.com^
+||snu.lge.com^
