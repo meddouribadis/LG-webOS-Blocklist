@@ -1,0 +1,16 @@
+||nextlgsdp.com^
+||lgtvcommon.com^
+||lgsmartad.com^
+||lgtviot.com^
+||lgthinq.com^
+||snu.lge.com^
+||su.lge.com^
+||su-ssl.lge.com^
+||nsu.lge.com^
+||snu-dev.lge.com^
+||su-dev.lge.com^
+||ngfts.lge.com^
+||lgsmartweb.com^   # breaks voice search
+# optional tradeoffs:
+# ||lgtvsdp.com^      # breaks Content Store
+# ||lgappstv.com^     # breaks Content Store
