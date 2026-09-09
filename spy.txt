@@ -1,8 +1,34 @@
+! === LG SDX / Telemetry ===
 ||nextlgsdp.com^
+||*.nextlgsdp.com^
+||ibs.nextlgsdp.com^
+||ibsstat.nextlgsdp.com^
+||rdx2.nextlgsdp.com^
+
+! === LG TV Common ===
 ||lgtvcommon.com^
+||*.lgtvcommon.com^
+||netflixvoice.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||wiseconfig.lgtvcommon.com^
+||pnv.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||cdpsvc.lgtvcommon.com^
+||cpauth.lgtvcommon.com^
+||cdpbeacon.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||wiseresource.lgtvcommon.com^
+||qcardservice.lgtvcommon.com^
+||qt2-kic.lab.lgtvcommon.com^
+
+! === LG Smart / IoT / Analytics ===
 ||lgsmartad.com^
 ||lgtviot.com^
 ||lgthinq.com^
+||lgsmartweb.com^ #breaks voices search
+
+! === LG Update / System Services ===
 ||snu.lge.com^
 ||su.lge.com^
 ||su-ssl.lge.com^
@@ -10,7 +36,12 @@
 ||snu-dev.lge.com^
 ||su-dev.lge.com^
 ||ngfts.lge.com^
-||lgsmartweb.com^   # breaks voice search
-# optional tradeoffs:
-# ||lgtvsdp.com^      # breaks Content Store
-# ||lgappstv.com^     # breaks Content Store
+
+! === Other LG services ===
+||lgshopsvc.lgappstv.com^
+||lggalleryplus.com^
+||tv.wiselg.com^
+
+! === OPTIONAL: breaks Content Store ===
+! ||lgtvsdp.com^
+! ||lgappstv.com^
